@@ -1,4 +1,6 @@
 # -FRA502-Service-Robot_62340500011
+Vido test
+https://drive.google.com/file/d/1QeqNEAQyTpxzMDgSOmEjmXH9-sWj_Ae4/view?usp=sharing
 นาย ชนาธิป พุ่มพันธฺุุ์ 62340500011
 วิธีการเปิด
 1. เปิด Gaxebo +spawn Robot
